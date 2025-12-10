@@ -1,5 +1,10 @@
 body {
     background-image: url(lake-os-bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    height: fit-content;
+    width: fit-content;
 }
 p {
     color: antiquewhite;
