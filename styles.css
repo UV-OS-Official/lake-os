@@ -1,1 +1,6 @@
-
+body {
+    background-image: url(lake-os-bg.jpeg);
+}
+p {
+    color: antiquewhite;
+}
